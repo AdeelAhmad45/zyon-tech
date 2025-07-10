@@ -70,9 +70,7 @@ export default function Homepage() {
           items={menuItems}
           onClick={handleMenuClick}
         />
-        {/* <Button type="primary" icon={<LoginOutlined />}>
-          Login
-        </Button> */}
+        
       </div>
 
       {/* Mobile Hamburger Icon */}
@@ -113,7 +111,7 @@ export default function Homepage() {
   cover={
     <img
       alt="Anime girl"
-      src="public/left-img.jpg"
+      src="left-img.jpg"
       className="object-cover h-full w-full"
     />
   }
