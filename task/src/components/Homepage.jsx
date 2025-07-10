@@ -21,6 +21,9 @@ export default function Homepage() {
 
    const handleMenuClick = (e) => {
     if (e.key === 'home') navigate('/');
+     if (e.key === 'about') {
+      navigate('/about');
+    }
     else if (e.key === 'about') navigate('/about');
     // GitHub is an external link handled directly
   };
@@ -60,7 +63,7 @@ export default function Homepage() {
     <div>
      <div className="w-full shadow-md bg-white px-6 py-3 flex justify-between items-center">
       <div className="flex items-center gap-8">
-        <div className="text-xl font-bold text-blue-600">MyApp</div>
+        <div className="text-xl font-bold text-blue-600">Zyon Tech</div>
 
       {/* Desktop Menu */}
       <div className="hidden md:flex items-center gap-6">
@@ -110,7 +113,7 @@ export default function Homepage() {
   className="shadow-lg"
   cover={
     <img
-      alt="Anime girl"
+      alt="img"
       src="left-img.jpg"
       className="object-cover h-full w-full"
     />
