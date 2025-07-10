@@ -1,12 +1,34 @@
-# React + Vite
+# 🌐 React Google OAuth Login App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern web application built with *React.js, **Tailwind CSS, and **Ant Design (AntD). It integrates **Google OAuth* for secure login and user authentication.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛ React.js (with Vite)
+- 🎨 Tailwind CSS
+- 🧩 Ant Design (AntD)
+- 🔐 Google OAuth 2.0
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Features
+
+- ✅ Google OAuth Login
+- ✅ User authentication and profile display
+- ✅ Responsive and modern UI with Tailwind + AntD
+- ✅ Secure handling of user session (login/logout)
+- ✅ Routing with React Router DOM
+
+
+<img width="1894" height="858" alt="Screenshot 2025-07-10 191918" src="https://github.com/user-attachments/assets/bc19c585-4751-428e-9cb6-6c3f1bd5b6a5" />
+
+<img width="571" height="857" alt="Screenshot 2025-07-10 192032" src="https://github.com/user-attachments/assets/63da8f43-2410-4517-bc27-887944beca62" />
+
+
+<img width="1920" height="1020" alt="Screenshot 2025-07-10 192752" src="https://github.com/user-attachments/assets/28e316e6-49d6-4522-88d1-f8d37eb5bf91" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-07-10 192819" src="https://github.com/user-attachments/assets/6630d9c4-6d2e-47cd-a577-7eec908c4b60" />
+
+
