@@ -1,4 +1,4 @@
-# 🌐 React Google OAuth Login App
+# 🌐 Zyon Tech Google OAuth Login with Admin Dashboard App
 
 This is a modern web application built with *React.js, **Tailwind CSS, and **Ant Design (AntD). It integrates **Google OAuth* for secure login and user authentication.
 
